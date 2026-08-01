@@ -22,22 +22,7 @@ Welcome to my Unity showcase repository! This repository contains a curated coll
  04.DRONE SHOT-MOUNTAIN
   * *Overview:* A cinematic Unity terrain simulation capturing sweeping aerial drone views over a mountain landscape.
  * *Key Focus:* Utilizes custom terrain sculpting, volumetric sky/fog effects, and smooth virtual camera pathing.
- 
- 05.UNITY CUBES
- * *Overview:* An interactive C# project featuring three dynamic Unity cubes that rotate and cycle colors upon user interaction.
- * *Key Focus:* Serves as a fundamental demonstration of player input handling, transformation scripts, and material color manipulation.
-
-📁 Details
-1.CLASSROOM INTERIOR
+ ![image alt]()
 
 
-2.AR IMAGE TRACKING
 
-
-3.PARKING LOT ENVIRONMENT
-
-
-4.DRONE SHOT-MOUNTAIN
-
-
-5.UNITY CUBES
