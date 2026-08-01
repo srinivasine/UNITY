@@ -1,6 +1,6 @@
 
 🎮 Unity Projects Portfolio
-Welcome to my Unity showcase repository! This repository contains a curated collection of **7 Unity projects**, highlighting various game mechanics, technical implementations, and visual designs.
+Welcome to my Unity showcase repository! This repository contains a curated collection of my Unity projects, highlighting various game mechanics, technical implementations, and visual designs i learned in a period of 5 days.
 
 ## Technologies Used
 
