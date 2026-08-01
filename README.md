@@ -2,6 +2,17 @@
 🎮 Unity Projects Portfolio
 Welcome to my Unity showcase repository! This repository contains a curated collection of **7 Unity projects**, highlighting various game mechanics, technical implementations, and visual designs.
 
+## Technologies Used
+
+- ✨ **Unity Engine**
+- ✨ **C# Programming Language**
+- ✨ **Vuforia Engine (AR Target Tracking)**
+- ✨ **Cinemachine Virtual Cameras**
+- ✨ **Universal Render Pipeline (URP)**
+- ✨ **Unity Terrain Tools**
+- ✨ **Unity 3D Assets & PBR Materials**
+- ✨ **Git & GitHub for Version Control**
+
 📌 Projects Overview
 
  01.CLASSROOM INTERIOR
@@ -22,7 +33,7 @@ Welcome to my Unity showcase repository! This repository contains a curated coll
  04.DRONE SHOT-MOUNTAIN
   * *Overview:* A cinematic Unity terrain simulation capturing sweeping aerial drone views over a mountain landscape.
  * *Key Focus:* Utilizes custom terrain sculpting, volumetric sky/fog effects, and smooth virtual camera pathing.
- ![image alt]()
+ ![image alt](https://github.com/srinivasine/UNITY/blob/29388f198d0f207c404c9ee05f12898d2f55ad1a/muruga.jpg)
 
 
 
